@@ -40,7 +40,7 @@
     "prettier:fix": "prettier 'src/**/*.js' --write"
   },
   "devDependencies": {
-    "apollo-server": "^2.0.8",
+    "apollo-server": "^2.14.2",
     "apollo-server-express": "^2.1.0",
     "cypress": "^3.1.0",
     "enzyme": "^3.6.0",
